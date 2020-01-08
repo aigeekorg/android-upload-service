@@ -7,6 +7,8 @@ Android Upload Service
 |--|--|
 | :iphone: | [Download demo APK](https://github.com/gotev/android-upload-service/releases/download/3.4.2/uploadservice-demo-debug.apk)|
 
+ANDROID STUDIO:open project-->select 'android-upload-service/examples/app'-->sync gradle.
+
 ![compose-upload](https://user-images.githubusercontent.com/16792495/28752871-de82540e-7529-11e7-9037-de86b8f0ca27.gif)
 ![upload](https://user-images.githubusercontent.com/16792495/28752872-de9a8894-7529-11e7-823a-e51eda59f5b7.gif)
 
@@ -53,13 +55,13 @@ Put a star, spread the word and if you want to offer me a free beer, [![Donate](
 ## License <a name="license"></a>
 
     Copyright (C) 2013-2018 Aleksandar Gotev
-
+    
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
     You may obtain a copy of the License at
-
+    
        http://www.apache.org/licenses/LICENSE-2.0
-
+    
     Unless required by applicable law or agreed to in writing, software
     distributed under the License is distributed on an "AS IS" BASIS,
     WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
